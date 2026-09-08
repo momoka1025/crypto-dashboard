@@ -6,7 +6,7 @@ from typing import Optional  # ← 【追加】typing（型ヒント）を使う
 
 # ページの設定
 st.set_page_config(page_title="Crypto Dashboard", page_icon="📈", layout="wide")
-st.title("📈 仮想通貨 価格ダッシュボード")
+st.title("🚀 仮想通貨ダッシュボード (改修版)")
 
 # サイドバーの設定
 st.sidebar.header("設定")
