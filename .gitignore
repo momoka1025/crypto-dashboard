@@ -1,0 +1,16 @@
+# 仮想環境
+.venv/
+env/
+venv/
+ENV/
+
+# Streamlit固有のファイル
+.streamlit/
+
+# Python関連の不要ファイル
+*.pyc
+__pycache__/
+
+# OS自動生成ファイル
+.DS_Store
+Thumbs.db
